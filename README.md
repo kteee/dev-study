@@ -1,2 +1,2 @@
-## Dev Study
-개인 공부 저장소
+## Dev-Study
+개인공부 저장소
