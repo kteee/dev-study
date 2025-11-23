@@ -1,0 +1,13 @@
+# Visual Studio 관련
+.vs/
+*.user
+*.suo
+
+# 빌드 결과물
+bin/
+obj/
+
+# 기타
+*.log
+*.db
+*.cache
