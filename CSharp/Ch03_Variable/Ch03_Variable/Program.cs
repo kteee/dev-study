@@ -11,7 +11,7 @@ Console.WriteLine(myName);
 myName = "Anna";
 Console.WriteLine(myName);
 
-// 변수 선언 및 할당
+// 변수 선언과 동시에 할당하기
 string yourName = "Nick";
 Console.WriteLine(yourName);
 
