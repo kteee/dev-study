@@ -1,6 +1,4 @@
-﻿// Ch03_변수
-
-// 변수 선언하기
+﻿// 변수 선언하기
 string myName;
 // 변수에 값 할당하기
 myName = "Jenny";
