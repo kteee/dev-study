@@ -1,17 +1,16 @@
-﻿// Variable
-
-// 변수 선언
+﻿// decleared a (string) variable
 string myName;
-// 변수에 값 할당
+// assign a value to the myName variable
 myName = "Jenny";
-// 변수 사용(접근)
+
+// use(access) the variable
 Console.WriteLine(myName);
 
-// 변수 재할당
+// overwriting the variable value
 myName = "Anna";
 Console.WriteLine(myName);
 
-// 변수 선언과 동시에 할당
+// declare a variable and assign a value to it
 string yourName = "Nick";
 Console.WriteLine(yourName);
 
