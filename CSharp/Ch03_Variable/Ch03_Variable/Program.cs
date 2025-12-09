@@ -1,4 +1,6 @@
-﻿// decleared a (string) variable
+﻿// Variable
+
+// decleared a (string) variable
 string myName;
 // assign a value to the myName variable
 myName = "Jenny";
