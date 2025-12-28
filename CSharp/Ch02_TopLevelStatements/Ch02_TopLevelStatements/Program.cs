@@ -1,4 +1,4 @@
-﻿// CH02. Top-level statements
+﻿// Ch02_Top-level statements
 
 //  최신 콘솔 앱 템플릿은 최상위 문 방식 지원 (Main 메서드 생략 가능)
 // See https://aka.ms/new-console-template for more information

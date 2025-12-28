@@ -1,4 +1,4 @@
-﻿// CH03. Variable
+﻿// Ch03_Variable
 
 // decleared a (string) variable
 string myName;
